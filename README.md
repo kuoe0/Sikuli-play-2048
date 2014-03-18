@@ -13,4 +13,4 @@ Environment
 Video
 -----
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/080xmodmuQI" frameborder="0" allowfullscreen></iframe>
+[YouTube](https://www.youtube.com/watch?v=080xmodmuQI)
